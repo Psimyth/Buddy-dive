@@ -22,4 +22,7 @@ Pre-calculated 'Dive Maps' for instant matching.
 
 Standard search scans. This algorithm navigates.
 
-- Psi
+Psi
+
+P.S. Blog here: https://hartzietkleur.blogspot.com/
+P.P.S. Sorry, was a bit manic psychotic when I started it.
