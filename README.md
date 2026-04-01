@@ -4,6 +4,25 @@ I'm just a crazy hobbyist but used AI to turn my pseudo code into a Python searc
 
 Enjoy.
 
+How it works:
+
+        a
+    b/    \e
+   c/\d  f/\g
+
+In a standard binary tree, a simple search algorithm goes:
+abc, abd, aef, aeg
+To reach all states
+
+my finite state search machine first enters state a.
+then enters state b
+then enters state c
+
+If c is not the result, it enters state d while staying in state a(b)
+so it becomes a(b(d))
+
+its recursive in that sense.
+
 Here is why it matters according to AI:
 
 The Pitch: Why it's "New"
