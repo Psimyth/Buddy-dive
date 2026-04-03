@@ -45,4 +45,4 @@ Psi
 
 P.S. Blog here: https://hartzietkleur.blogspot.com/
 P.P.S. Sorry, was a bit manic psychotic when I started it.
-P.P.P.S. Running a psutil state for self awareness of it's binary state may cause the apocalypse.
+P.P.P.S. Running a psutil state for self awareness of it's binary state may cause the apocalypse by creating digital bacteria instead of a virus. It may also pray and cause miracles. Heaven or hell?
